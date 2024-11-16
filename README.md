@@ -2,7 +2,7 @@
 
 ### Installation
 
-- There are two pieces of Xapian you need to follow this guide: the library itself, and support for the language you’re going to be using. This guide was originally written with examples in Python, and we’ve made a start on full translations into Java, Perl, PHP and C++.
+- There are two pieces of Xapian you need to follow this guide: the library itself, and support for the language you’re going to be using. This guide was originally written with examples in Python, and we’ve made a start on full translations into Java, Perl, PHP and C++ check the [guide](https://getting-started-with-xapian.readthedocs.io/en/latest/overview.html) for more informations.
 - Use ubuntu for runtime environment
 - Execute `setup/install-xapian.sh` to download & setup the environment
 
