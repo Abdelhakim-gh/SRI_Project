@@ -11,21 +11,21 @@
 
 ### Étapes d'installation
 
-1. **Installer Xapian**
-
-   Exécutez le script `setup/install-xapian.sh` pour télécharger et configurer l'environnement Xapian & dependence ou suivez les instructions dans le fichier :
-
-   ```sh
-   sh setup/install-xapian.sh
-   ```
-
-2. **Cloner le projet**
+1. **Cloner le projet**
 
    Clonez le dépôt du projet sur votre machine locale :
 
    ```sh
    git clone https://github.com/Abdelhakim-gh/SRI_Project
    cd SRI_Project
+   ```
+
+2. **Installer Xapian**
+
+   Exécutez le script `setup/install-xapian.sh` pour télécharger et configurer l'environnement Xapian & dependence ou suivez les instructions dans le fichier :
+
+   ```sh
+   sh setup/install-xapian.sh
    ```
 
 ## Indexer la base de données Xapian
