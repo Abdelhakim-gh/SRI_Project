@@ -28,7 +28,7 @@
 
    ```sh
    cp setup/install-xapian.sh ~/
-
+   cd 
    sh install-xapian.sh
    ```
 
