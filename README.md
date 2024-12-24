@@ -9,6 +9,13 @@
 - Ubuntu comme environnement d'exécution
 - `Python`, `pip`, `git` installé
 
+Pour installer Python LTS, pip et git sur Ubuntu, exécutez les commandes suivantes dans le terminal :
+
+```sh
+sudo apt update
+sudo apt install -y python3 python3-pip git
+```
+
 ### Étapes d'installation
 
 > Dans `Home directory` execute les command suivant
