@@ -28,7 +28,7 @@
 
    ```sh
    cp setup/install-xapian.sh ~/
-   cd 
+   cd
    sh install-xapian.sh
    ```
 
@@ -57,7 +57,7 @@ Utilisez le script `query.py` avec différentes options pour interroger les donn
 - Rechercher des films par mot-clé dans le résumé ou la description :
 
   ```sh
-  python query.py --keyword 'aventure'
+  python query.py --keyword 'action'
   ```
 
 - Rechercher des films avec un titre spécifique :
@@ -81,7 +81,7 @@ Utilisez le script `query.py` avec différentes options pour interroger les donn
 - Afficher les facettes sur les résultats (par exemple, le nombre de films par classification) :
 
   ```sh
-  python query.py --keyword 'amour' --show_facets
+  python query.py --keyword 'action' --show_facets
   ```
 
 ## Conclusion
